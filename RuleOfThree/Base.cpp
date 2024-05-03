@@ -1,4 +1,5 @@
 #include "Base.h"
+
 // Default constructor
 Base::Base() : name(nullptr) {}
 
